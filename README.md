@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning advanced Python for Data Science, time series forecasting, and AI/ML applications
 - 💞️ I’m looking to collaborate on data-driven projects, analytics dashboards, and deep learning models
 - 📫 How to reach me :
--     Gmail : osheenjudy@gmail.com
+-     Gmail : osheenjudithdcosta@gmail.com
 -     LinkedIn : https://www.linkedin.com/in/osheen-judith-dcosta-911495281/
